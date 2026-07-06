@@ -35,10 +35,6 @@ Passionate AI enthusiast with a strong foundation in Machine Learning, Deep Lear
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -47,7 +43,7 @@ Passionate AI enthusiast with a strong foundation in Machine Learning, Deep Lear
 
 ## ⭐ ReviewPilot
 
-An AI-powered collaborative review management platform built using Python and modern AI technologies with GitHub-based collaborative development.
+An AI-powered collaborative review management platform that streamlines the review process using modern AI technologies and industry-standard Git workflows.
 
 ### Features
 
@@ -56,7 +52,7 @@ An AI-powered collaborative review management platform built using Python and mo
 - MCP integration
 - Webhook support
 - FastAPI backend
-- GitHub feature branches
+- GitHub Feature Branches
 - Pull Requests & Code Reviews
 
 ### Tech Stack
@@ -165,8 +161,8 @@ Git • GitHub • VS Code • N8N
 # 🏆 Certifications
 
 - IEEE Arduino Hackathon – Brain-Controlled Piano System
-- Salesforce AI Agent Certification
 - Tata GenAI Powered Data Analytics Job Simulation
+- Salesforce AI Agent Certification
 - Design Thinking Certification
 
 ---
@@ -174,10 +170,10 @@ Git • GitHub • VS Code • N8N
 # 🤝 Soft Skills
 
 - Leadership
+- Problem Solving
 - Teamwork
 - Communication
 - Time Management
-- Problem Solving
 
 ---
 
@@ -194,5 +190,5 @@ https://github.com/rahulvigneshkumaran
 ---
 
 <p align="center">
-<i>"Turning AI ideas into intelligent solutions, one project at a time."</i> 🚀
+  <i>"Turning AI ideas into intelligent solutions, one project at a time."</i> 🚀
 </p>
