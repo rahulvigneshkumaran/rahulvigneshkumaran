@@ -1,26 +1,25 @@
-# Hi there 👋, I'm Rahul Kumaran
+# Hi there 👋, I'm Rahul Vignesh Kumaran K
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Rahul%20Kumaran&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Python%20Developer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B0A0A,50:8B0000,100:DC2626&text=Rahul%20Vignesh%20Kumaran%20K&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20|%20ML%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer;Artificial+Intelligence+%26+Machine+Learning;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Python+Developer;Building+AI-Powered+Applications" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.E. Computer Science and Engineering Student
+🎓 B.E. Computer Science and Engineering Student at Rathinam Technical Campus  
+📍 Coimbatore, Tamil Nadu, India
 
-📍 Tamil Nadu, India
+Passionate AI enthusiast with a strong foundation in Machine Learning, Deep Learning, Agentic AI, and Data Structures. I enjoy building intelligent systems that solve real-world problems and continuously enhance my technical skills through projects and hands-on learning.
 
-I am an aspiring Software Engineer passionate about Python, Artificial Intelligence, Machine Learning, and Problem Solving. I enjoy building practical applications, exploring modern technologies, and continuously improving my programming skills.
-
-- 🌱 Currently learning Python, AI & Machine Learning
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 💻 Practicing Data Structures & Algorithms using Python
-- 📚 Learning NumPy and Python Libraries
-- 🚀 Looking for Internship and Software Developer Opportunities
+- 🔭 Currently building AI-powered applications
+- 🌱 Learning Agentic AI, MCP, RAG & Advanced Machine Learning
+- 🤖 Interested in Artificial Intelligence & Software Development
+- 🚀 Looking for AI/ML & Software Engineering opportunities
+- 🧩 Practicing Data Structures & Algorithms
 
 ---
 
@@ -36,48 +35,105 @@ I am an aspiring Software Engineer passionate about Python, Artificial Intellige
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 Currently Learning
+# 🚀 Featured Projects
 
-- Python
-- Artificial Intelligence
-- Machine Learning
-- NumPy
-- Data Structures & Algorithms
+## ⭐ ReviewPilot
+
+An AI-powered collaborative review management platform built using Python and modern AI technologies with GitHub-based collaborative development.
+
+### Features
+
+- AI-powered review management
+- RAG-based information retrieval
+- MCP integration
+- Webhook support
+- FastAPI backend
+- GitHub feature branches
+- Pull Requests & Code Reviews
+
+### Tech Stack
+
+`Python` `FastAPI` `RAG` `MCP` `Webhook` `HTML` `CSS` `JavaScript`
 
 ---
 
-# 💻 Tech Stack
+## 🌾 Agriculture ChatBot
 
-## Programming Languages
+An intelligent chatbot that assists farmers by answering crop and plant disease-related queries using Machine Learning and NLP.
+
+### Features
+
+- Crop recommendation
+- Plant disease assistance
+- Intent-based responses
+- Real-time chatbot
+- Streamlit interface
+
+### Tech Stack
+
+`Python` `LangChain` `XAI` `Random Forest` `Streamlit` `NumPy` `Pandas`
+
+---
+
+## 🔍 Fake Profile Detection
+
+A Machine Learning application that classifies social media accounts as genuine or fake based on behavioral features.
+
+### Features
+
+- Fake profile prediction
+- Random Forest model
+- Feature engineering
+- Streamlit dashboard
+- Real-time prediction
+
+### Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras` `Streamlit`
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### AI / ML
+
+Machine Learning • Deep Learning • Agentic AI • RAG • MCP
+
+### Frameworks & Libraries
+
+FastAPI • LangChain • Streamlit
+
+### Data Science
+
+NumPy • Pandas • Scikit-learn • TensorFlow/Keras
+
+### Frontend
+
+HTML • CSS • JavaScript
+
+### Tools
+
+Git • GitHub • VS Code • N8N
+
 ---
 
-## AI & Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-## Tools
-
-Git • GitHub • VS Code • PyCharm
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulvigneshkumaran&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvigneshkumaran&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulvigneshkumaran&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvigneshkumaran&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -85,19 +141,15 @@ Git • GitHub • VS Code • PyCharm
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvigneshkumaran&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvigneshkumaran&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvigneshkumaran&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvigneshkumaran&theme=redical&hide_border=true"/>
 </p>
 
 ---
@@ -105,53 +157,42 @@ Git • GitHub • VS Code • PyCharm
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulvigneshkumaran&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=rahulvigneshkumaran&theme=radical&row=1&column=6&no-frame=true"/>
 </p>
 
 ---
 
-# 🎯 Goals for 2026
+# 🏆 Certifications
 
-- ✅ Master Python Programming
-- ✅ Become proficient in Data Structures & Algorithms
-- ✅ Build AI & Machine Learning Projects
-- ✅ Learn Deep Learning
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-
----
-
-# 📚 Currently Working On
-
-- Python Projects
-- AI & Machine Learning
-- NumPy
-- Data Structures & Algorithms
+- IEEE Arduino Hackathon – Brain-Controlled Piano System
+- Salesforce AI Agent Certification
+- Tata GenAI Powered Data Analytics Job Simulation
+- Design Thinking Certification
 
 ---
 
 # 🤝 Soft Skills
 
-- Problem Solving
+- Leadership
 - Teamwork
-- Adaptability
 - Communication
-- Continuous Learning
+- Time Management
+- Problem Solving
 
 ---
 
 # 📫 Contact Me
 
-📧 Email: **your-email@example.com**
+📧 Email: **rahulkumaran07@gmail.com**
 
-💻 GitHub: https://github.com/rahulvigneshkumaran
+💼 LinkedIn:  
+https://www.linkedin.com/in/rahul-kumaran-65b408350/
 
-💼 LinkedIn: https://www.linkedin.com/in/rahul-kumaran-65b408350/
+💻 GitHub:  
+https://github.com/rahulvigneshkumaran
 
 ---
 
 <p align="center">
-  <i>"Every expert was once a beginner. Keep learning, keep building."</i> 🚀
+<i>"Turning AI ideas into intelligent solutions, one project at a time."</i> 🚀
 </p>
